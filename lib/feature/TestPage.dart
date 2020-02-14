@@ -23,6 +23,8 @@ class _TestPageState extends State<TestPage> {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return null;
+    return Container(
+      child: Text("Test"),
+    );
   }
 }
